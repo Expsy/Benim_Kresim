@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: 5329ec347a907ff4ea4bad6342e6279f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: "Ba\u015Fparmak"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 746
+      y: 757
+      width: 44
+      height: 32
+    spriteID: b5f3c2d0cbc8f0f4a84e331716fc6e28
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 740, y: 452}
+  - name: "\u0130\u015FaretParmak"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 532
+      y: 757
+      width: 50
+      height: 66
+    spriteID: f520561839d1aaa4eb2434a4a8c9fc09
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 355, y: 724}
+  - name: Ortaparmak
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 646
+      y: 757
+      width: 41
+      height: 53
+    spriteID: 0e5725bfe5b839942958c85cf54ce2b7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 343, y: 742}
+  - name: "Y\xFCz\xFCkparmak"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 695
+      y: 757
+      width: 43
+      height: 45
+    spriteID: 24ab2914a80f315419d0c00421c9f862
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 293, y: 707}
+  - name: "Ser\xE7eparmak"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 590
+      y: 757
+      width: 48
+      height: 57
+    spriteID: de9ae13ec13c2de4a832d801af207e00
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 82, y: 607}
+  - name: Katman 37
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 542
+      height: 745
+    spriteID: c514d7d5f63db3f44940aba07035f27d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -9, y: -20}
+  - name: Katman 30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 757
+      width: 520
+      height: 298
+    spriteID: 904fbb3add623a548ad04b06afc2f76e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -24, y: 695}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 1024
+  importedTextureHeight: 2048
+  documentSize: {x: 575, y: 780}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 1024
+  textureActualHeight: 2048
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Merged
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 67
+    mosaicPosition: {x: 0, y: 0}
+  - name: "Ba\u015Fparmak"
+    spriteName: "Ba\u015Fparmak"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b5f3c2d0cbc8f0f4a84e331716fc6e28
+    layerID: 68
+    mosaicPosition: {x: 746, y: 757}
+  - name: "\u0130\u015FaretParmak"
+    spriteName: "\u0130\u015FaretParmak"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f520561839d1aaa4eb2434a4a8c9fc09
+    layerID: 69
+    mosaicPosition: {x: 532, y: 757}
+  - name: Ortaparmak
+    spriteName: Ortaparmak
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 0e5725bfe5b839942958c85cf54ce2b7
+    layerID: 70
+    mosaicPosition: {x: 646, y: 757}
+  - name: "Y\xFCz\xFCkparmak"
+    spriteName: "Y\xFCz\xFCkparmak"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 24ab2914a80f315419d0c00421c9f862
+    layerID: 71
+    mosaicPosition: {x: 695, y: 757}
+  - name: "Ser\xE7eparmak"
+    spriteName: "Ser\xE7eparmak"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: de9ae13ec13c2de4a832d801af207e00
+    layerID: 56
+    mosaicPosition: {x: 590, y: 757}
+  - name: Katman 37
+    spriteName: Katman 37
+    isGroup: 0
+    parentIndex: 0
+    spriteID: c514d7d5f63db3f44940aba07035f27d
+    layerID: 66
+    mosaicPosition: {x: 4, y: 4}
+  - name: Katman 30
+    spriteName: Katman 30
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 904fbb3add623a548ad04b06afc2f76e
+    layerID: 59
+    mosaicPosition: {x: 4, y: 757}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: Hand Texture
+  prefabAssetName: Hand Prefab
+  spriteLibAssetName: Hand Sprite Lib
+  secondarySpriteTextures: []

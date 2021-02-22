@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a00a2c51-7f1d-4cfd-bbd5-9774fc7ef57b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SceneController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ProfileManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UIManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HandManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ArrowScrolling.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bookcase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Kid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CardScriptableObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/KidObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BarManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Constants.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Nail.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/KidManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Tırnak.cs" />
+        <option value="$PROJECT_DIR$/Assets/Constants.cs" />
+        <option value="$PROJECT_DIR$/Assets/SceneController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/KidObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/LevelManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/DirtyHand.cs" />
+        <option value="$PROJECT_DIR$/Assets/KidManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Nail.cs" />
+        <option value="$PROJECT_DIR$/Assets/HandManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/BarController.cs" />
+        <option value="$PROJECT_DIR$/Assets/ProfileManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/BarManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/FadeController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/KidManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/KidBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/SneezeIcon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SceneController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Constants.cs" />
+        <option value="$PROJECT_DIR$/Assets/BalloonSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/DestroyerBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Balloon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Graph.cs" />
+        <option value="$PROJECT_DIR$/Assets/BalloonUIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/BalloonManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/BalloonCloud.cs" />
+        <option value="$PROJECT_DIR$/Assets/Stat.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Kid.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CardScriptableObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Card.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bookcase.cs" />
+        <option value="$PROJECT_DIR$/Assets/MiniGameLauncher.cs" />
+        <option value="$PROJECT_DIR$/Assets/CardManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BarManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bookcase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ArrowScrolling.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zly9YYgaqttqFSxMB8WyyOf35z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a00a2c51-7f1d-4cfd-bbd5-9774fc7ef57b" name="Default Changelist" comment="" />
+      <created>1585427855718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585427855718</updated>
+      <workItem from="1585427902916" duration="10305000" />
+      <workItem from="1585497252663" duration="180000" />
+      <workItem from="1585497463127" duration="6357000" />
+      <workItem from="1585506655596" duration="14440000" />
+      <workItem from="1585787181382" duration="6961000" />
+      <workItem from="1585835566084" duration="601000" />
+      <workItem from="1585956995959" duration="4537000" />
+      <workItem from="1586120207019" duration="4021000" />
+      <workItem from="1586126652129" duration="2640000" />
+      <workItem from="1586136469474" duration="10791000" />
+      <workItem from="1595432420486" duration="599000" />
+      <workItem from="1595858108776" duration="6938000" />
+      <workItem from="1595945354469" duration="1176000" />
+      <workItem from="1596023484859" duration="1229000" />
+      <workItem from="1596042023181" duration="2260000" />
+      <workItem from="1596068151562" duration="614000" />
+      <workItem from="1596070204483" duration="5441000" />
+      <workItem from="1596112841602" duration="6608000" />
+      <workItem from="1596233753270" duration="1059000" />
+      <workItem from="1596240004916" duration="1354000" />
+      <workItem from="1596294662364" duration="395000" />
+      <workItem from="1596295079407" duration="7053000" />
+      <workItem from="1596321553674" duration="161000" />
+      <workItem from="1596324619534" duration="1557000" />
+      <workItem from="1597783141746" duration="5229000" />
+      <workItem from="1597797659290" duration="8080000" />
+      <workItem from="1597843363231" duration="5439000" />
+      <workItem from="1597860274972" duration="747000" />
+      <workItem from="1597887494904" duration="13357000" />
+      <workItem from="1597946341326" duration="8054000" />
+      <workItem from="1597966491174" duration="3096000" />
+      <workItem from="1598882701010" duration="2647000" />
+      <workItem from="1600858259699" duration="2299000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597926854563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597926854563" />
+  </component>
+</project>

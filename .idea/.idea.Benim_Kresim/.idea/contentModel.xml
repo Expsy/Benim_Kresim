@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Expsy\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Expsy\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Benim_Kresim.-601957537.00" t="ExcludeRecursive" />
+    <e p="D:\Projects\Unity Projects\New\Benim_Kresim" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="CodeMonkey" t="Include">
+          <e p="Assets.cs" t="Include" />
+          <e p="CMDebug.cs" t="Include" />
+          <e p="MonoBehaviours" t="Include">
+            <e p="CameraFollow.cs" t="Include" />
+            <e p="CameraFollowSetup.cs" t="Include" />
+            <e p="ComponentActions.cs" t="Include" />
+            <e p="PositionRendererSorter.cs" t="Include" />
+          </e>
+          <e p="readme.txt" t="Include" />
+          <e p="Utils" t="Include">
+            <e p="Button_Sprite.cs" t="Include" />
+            <e p="Button_UI.cs" t="Include" />
+            <e p="FunctionPeriodic.cs" t="Include" />
+            <e p="FunctionTimer.cs" t="Include" />
+            <e p="FunctionUpdater.cs" t="Include" />
+            <e p="UI_Bar.cs" t="Include" />
+            <e p="UI_BarMultiple.cs" t="Include" />
+            <e p="UI_Sprite.cs" t="Include" />
+            <e p="UI_TextComplex.cs" t="Include" />
+            <e p="UtilsClass.cs" t="Include" />
+            <e p="World_Bar.cs" t="Include" />
+            <e p="World_Mesh.cs" t="Include" />
+            <e p="World_Sprite.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Demigiant" t="Include">
+            <e p="DOTween" t="Include">
+              <e p="Modules" t="Include">
+                <e p="DOTweenModuleAudio.cs" t="Include" />
+                <e p="DOTweenModulePhysics.cs" t="Include" />
+                <e p="DOTweenModulePhysics2D.cs" t="Include" />
+                <e p="DOTweenModuleSprite.cs" t="Include" />
+                <e p="DOTweenModuleUI.cs" t="Include" />
+                <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+                <e p="DOTweenModuleUtils.cs" t="Include" />
+              </e>
+              <e p="readme.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="ArrowScrolling.cs" t="Include" />
+          <e p="Balloon.cs" t="Include" />
+          <e p="BalloonCloud.cs" t="Include" />
+          <e p="BalloonManager.cs" t="Include" />
+          <e p="BalloonSpawner.cs" t="Include" />
+          <e p="BalloonUIManager.cs" t="Include" />
+          <e p="BarManager.cs" t="Include" />
+          <e p="Bookcase.cs" t="Include" />
+          <e p="CameraController.cs" t="Include" />
+          <e p="Card.cs" t="Include" />
+          <e p="CardManager.cs" t="Include" />
+          <e p="CardScriptableObject.cs" t="Include" />
+          <e p="Constants.cs" t="Include" />
+          <e p="DestroyerBar.cs" t="Include" />
+          <e p="DirtyHand.cs" t="Include" />
+          <e p="FadeController.cs" t="Include" />
+          <e p="Hand.cs" t="Include" />
+          <e p="HandManager.cs" t="Include" />
+          <e p="Kid.cs" t="Include" />
+          <e p="KidBehaviour.cs" t="Include" />
+          <e p="KidManager.cs" t="Include" />
+          <e p="KidObject.cs" t="Include" />
+          <e p="LevelManager.cs" t="Include" />
+          <e p="MiniGameLauncher.cs" t="Include" />
+          <e p="Nail.cs" t="Include" />
+          <e p="ProfileManager.cs" t="Include" />
+          <e p="SceneController.cs" t="Include" />
+          <e p="SimpleCameraController.cs" t="Include" />
+          <e p="SneezeIcon.cs" t="Include" />
+          <e p="Stat.cs" t="Include" />
+          <e p="UIManager.cs" t="Include" />
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+        <e p="TutorialInfo" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="ReadmeEditor.cs" t="Include" />
+            </e>
+            <e p="Readme.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Benim_Kresim.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
